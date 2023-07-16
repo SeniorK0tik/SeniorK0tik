@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋, my name is Señor K0tik
+#### Dreamer of day
+![Dreamer of day](https://i.gifer.com/HST2.gif)
 
-<!--
-**SeniorK0tik/SeniorK0tik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Automation QA Engineer, Python Developer
 
-Here are some ideas to get you started:
+Skills: Python / Docker 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SeniorK0tik)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/NDRUS24)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeniorK0tik)](https://github.com/anuraghazra/github-readme-stats)
+
