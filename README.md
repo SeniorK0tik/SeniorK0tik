@@ -1,6 +1,7 @@
 ### Hi there 👋, my name is Señor K0tik
 #### Dreamer of day
-![Dreamer of day](https://i.gifer.com/HST2.gif)
+![Dreamer of day](![HST2](https://github.com/SeniorK0tik/SeniorK0tik/assets/96011982/b51e09d4-ccb5-46f9-bb6e-af602b1715a2)
+)
 
 Automation QA Engineer, Python Developer
 
